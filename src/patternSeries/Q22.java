@@ -2,7 +2,7 @@ package patternSeries;
 
 
 /*
- * last question
+ * last question has bit different logic
  */
 public class Q22 {
 
