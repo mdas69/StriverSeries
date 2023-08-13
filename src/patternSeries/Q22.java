@@ -1,5 +1,9 @@
 package patternSeries;
 
+
+/*
+ * last question has bit different logic
+ */
 public class Q22 {
 
 	public static void main(String[] args) {
